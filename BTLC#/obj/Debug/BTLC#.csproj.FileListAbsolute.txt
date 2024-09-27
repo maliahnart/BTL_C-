@@ -1,0 +1,10 @@
+F:\Test\BTL_C-\BTLC#\bin\Debug\BTLC#.exe.config
+F:\Test\BTL_C-\BTLC#\bin\Debug\BTLC#.exe
+F:\Test\BTL_C-\BTLC#\bin\Debug\BTLC#.pdb
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC#.csproj.AssemblyReference.cache
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC_.frmRegister.resources
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC_.Properties.Resources.resources
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC#.csproj.GenerateResource.cache
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC#.csproj.CoreCompileInputs.cache
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC#.exe
+F:\Test\BTL_C-\BTLC#\obj\Debug\BTLC#.pdb
